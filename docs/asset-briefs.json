@@ -1,0 +1,119 @@
+[
+  {
+    "id": "agent-memory",
+    "abbrlink": "c3a7f2",
+    "proposed_category": "AI 与自动化",
+    "alt": {
+      "zh-CN": "透明记忆库连接三个信息孤岛，汇聚知识卡片的概念插画。",
+      "en": "A transparent memory vault connects three information islands and brings knowledge cards together."
+    }
+  },
+  {
+    "id": "agent-workflow",
+    "abbrlink": "e6656c2b",
+    "proposed_category": "AI 与自动化",
+    "alt": {
+      "zh-CN": "由单个助手延伸成多工具协作机器的工作流概念插画。",
+      "en": "A single assistant grows into a coordinated machine of interconnected workflow tools."
+    }
+  },
+  {
+    "id": "ai-open-source-daily",
+    "abbrlink": "a7e2b6",
+    "proposed_category": "AI 与自动化",
+    "alt": {
+      "zh-CN": "晨光下陈列在托盘中的三个 AI 与自动化工具模型。",
+      "en": "Three AI and automation tool models displayed in a tray in the morning light."
+    }
+  },
+  {
+    "id": "global-vps-network",
+    "abbrlink": "b8f3c7",
+    "proposed_category": "技术基础设施",
+    "alt": {
+      "zh-CN": "两岸服务器通过跨海光缆相连，旁边有航行的货船。",
+      "en": "Servers on distant shores connected by an undersea cable, with cargo ships nearby."
+    }
+  },
+  {
+    "id": "ecommerce-automation",
+    "abbrlink": "d1b5e9",
+    "proposed_category": "AI 与自动化",
+    "alt": {
+      "zh-CN": "连接店铺、包裹传送带和国际港口的自动化运营循环。",
+      "en": "An automation loop connects a storefront, parcel conveyor and international ports."
+    }
+  },
+  {
+    "id": "b2b-audience-targeting",
+    "abbrlink": "a1f3c9",
+    "proposed_category": "跨境增长",
+    "alt": {
+      "zh-CN": "放大镜从全球业务网络中聚焦工厂、批发货物与采购决策者模型。",
+      "en": "A magnifying lens focuses on a factory, wholesale cargo and a buyer figure within a global business network."
+    }
+  },
+  {
+    "id": "global-live-commerce",
+    "abbrlink": "b2e4d1",
+    "proposed_category": "跨境增长",
+    "alt": {
+      "zh-CN": "直播设备通过信号路径连接海外店铺与包裹的概念插画。",
+      "en": "Live-streaming equipment connects to overseas storefronts and parcels through curved signal paths."
+    }
+  },
+  {
+    "id": "geo-audience",
+    "abbrlink": "e5c9f4",
+    "proposed_category": "跨境增长",
+    "alt": {
+      "zh-CN": "抽象城市模型中的区域被高亮，定位标记表示地域投放规划。",
+      "en": "Selected areas of an abstract city model are highlighted for geographic campaign planning."
+    }
+  },
+  {
+    "id": "chat-vs-store",
+    "abbrlink": "d4b8e3",
+    "proposed_category": "跨境增长",
+    "alt": {
+      "zh-CN": "聊天沟通与独立店铺两条路径汇合到订单包裹的概念插画。",
+      "en": "Two paths, customer conversations and an online store, converge on an order parcel."
+    }
+  },
+  {
+    "id": "open-source-toolkit",
+    "abbrlink": "f6d1a5",
+    "proposed_category": "AI 与自动化",
+    "alt": {
+      "zh-CN": "机械臂、知识卡片和模块化工具连接成可组合的开源工具箱。",
+      "en": "A mechanical arm, knowledge cards and modular tools form a connected open-source toolkit."
+    }
+  },
+  {
+    "id": "blog-welcome",
+    "abbrlink": "e2c6f0",
+    "proposed_category": "站点动态",
+    "alt": {
+      "zh-CN": "打开的笔记本延伸向远方，纸鸟象征个人知识博客的开始。",
+      "en": "An open notebook leads toward a distant horizon, with a paper bird marking the start of a knowledge blog."
+    }
+  },
+  {
+    "id": "linkedin-abm",
+    "abbrlink": "af40aec",
+    "proposed_category": "跨境增长",
+    "alt": {
+      "zh-CN": "围绕目标工厂连接多个专业角色的 B2B 账号营销概念插画。",
+      "en": "A network of professional figures surrounds a selected factory in an account-based marketing concept."
+    }
+  },
+  {
+    "id": "streaming-network",
+    "abbrlink": "c9a4d8",
+    "proposed_category": "技术基础设施",
+    "alt": {
+      "zh-CN": "摄像机的视频帧沿两条服务器路径传向屏幕的网络测试概念插画。",
+      "en": "Video frames travel from a camera through two server routes toward a screen in a network-testing concept."
+    }
+  }
+]
