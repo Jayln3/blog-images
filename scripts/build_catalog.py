@@ -57,7 +57,7 @@ def main():
             "sha256": digest, "format": "png", "kind": "conceptual-illustration",
             "raw_url": "https://raw.githubusercontent.com/Jayln3/blog-images/master/" + job["path"],
             "generation_tool": "image-gen", "model_id": None,
-            "blog_attachment_status": "prepared-not-applied",
+            "blog_attachment_status": "applied-in-blog-source",
         })
     manifest = {"schema_version": 1, "repository": "Jayln3/blog-images",
                 "created_date": "2026-09-29", "model_note": prompts["model_note"],
@@ -66,7 +66,7 @@ def main():
     (ROOT / "assets.json").write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n")
     lines = ["# 博客配图预览与对应关系", "",
              f"{len(assets)} 张无文字概念插画，由内置 image-gen 生成，可由中英文文章共用。", "",
-             "当前状态：图片已准备；博客文章的 cover 与正文尚未修改。原始 PNG 保留，后续接入时制作适合网页的展示版本。", "",
+             "当前状态：13 张配图已接入博客中英文文章的封面与正文。原始 PNG 保留，博客构建生成 WebP 展示图和缩略图。", "",
              "完整提示词见 [generation-prompts.json](docs/generation-prompts.json)，结构化清单见 [assets.json](assets.json)。", "",
              "| 图片 | 对应文章 | 建议分类 | 尺寸 | 原稿体积 |", "|---|---|---|---|---|"]
     for asset in assets:

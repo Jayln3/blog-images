@@ -2,7 +2,7 @@
 
 13 张无文字概念插画，由内置 image-gen 生成，可由中英文文章共用。
 
-当前状态：图片已准备；博客文章的 cover 与正文尚未修改。原始 PNG 保留，后续接入时制作适合网页的展示版本。
+当前状态：13 张配图已接入博客中英文文章的封面与正文。原始 PNG 保留，博客构建生成 WebP 展示图和缩略图。
 
 完整提示词见 [generation-prompts.json](docs/generation-prompts.json)，结构化清单见 [assets.json](assets.json)。
 

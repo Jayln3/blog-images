@@ -25,7 +25,7 @@
       "raw_url": "https://raw.githubusercontent.com/Jayln3/blog-images/master/covers/2026/agent-memory-v1.png",
       "generation_tool": "image-gen",
       "model_id": null,
-      "blog_attachment_status": "prepared-not-applied"
+      "blog_attachment_status": "applied-in-blog-source"
     },
     {
       "id": "agent-workflow",
@@ -47,7 +47,7 @@
       "raw_url": "https://raw.githubusercontent.com/Jayln3/blog-images/master/covers/2026/agent-workflow-v1.png",
       "generation_tool": "image-gen",
       "model_id": null,
-      "blog_attachment_status": "prepared-not-applied"
+      "blog_attachment_status": "applied-in-blog-source"
     },
     {
       "id": "ai-open-source-daily",
@@ -69,7 +69,7 @@
       "raw_url": "https://raw.githubusercontent.com/Jayln3/blog-images/master/covers/2026/ai-open-source-daily-v1.png",
       "generation_tool": "image-gen",
       "model_id": null,
-      "blog_attachment_status": "prepared-not-applied"
+      "blog_attachment_status": "applied-in-blog-source"
     },
     {
       "id": "global-vps-network",
@@ -91,7 +91,7 @@
       "raw_url": "https://raw.githubusercontent.com/Jayln3/blog-images/master/covers/2026/global-vps-network-v1.png",
       "generation_tool": "image-gen",
       "model_id": null,
-      "blog_attachment_status": "prepared-not-applied"
+      "blog_attachment_status": "applied-in-blog-source"
     },
     {
       "id": "ecommerce-automation",
@@ -113,7 +113,7 @@
       "raw_url": "https://raw.githubusercontent.com/Jayln3/blog-images/master/covers/2026/ecommerce-automation-v1.png",
       "generation_tool": "image-gen",
       "model_id": null,
-      "blog_attachment_status": "prepared-not-applied"
+      "blog_attachment_status": "applied-in-blog-source"
     },
     {
       "id": "b2b-audience-targeting",
@@ -135,7 +135,7 @@
       "raw_url": "https://raw.githubusercontent.com/Jayln3/blog-images/master/covers/2026/b2b-audience-targeting-v1.png",
       "generation_tool": "image-gen",
       "model_id": null,
-      "blog_attachment_status": "prepared-not-applied"
+      "blog_attachment_status": "applied-in-blog-source"
     },
     {
       "id": "global-live-commerce",
@@ -157,7 +157,7 @@
       "raw_url": "https://raw.githubusercontent.com/Jayln3/blog-images/master/covers/2026/global-live-commerce-v1.png",
       "generation_tool": "image-gen",
       "model_id": null,
-      "blog_attachment_status": "prepared-not-applied"
+      "blog_attachment_status": "applied-in-blog-source"
     },
     {
       "id": "geo-audience",
@@ -179,7 +179,7 @@
       "raw_url": "https://raw.githubusercontent.com/Jayln3/blog-images/master/covers/2026/geo-audience-v1.png",
       "generation_tool": "image-gen",
       "model_id": null,
-      "blog_attachment_status": "prepared-not-applied"
+      "blog_attachment_status": "applied-in-blog-source"
     },
     {
       "id": "chat-vs-store",
@@ -201,7 +201,7 @@
       "raw_url": "https://raw.githubusercontent.com/Jayln3/blog-images/master/covers/2026/chat-vs-store-v1.png",
       "generation_tool": "image-gen",
       "model_id": null,
-      "blog_attachment_status": "prepared-not-applied"
+      "blog_attachment_status": "applied-in-blog-source"
     },
     {
       "id": "open-source-toolkit",
@@ -223,7 +223,7 @@
       "raw_url": "https://raw.githubusercontent.com/Jayln3/blog-images/master/covers/2026/open-source-toolkit-v1.png",
       "generation_tool": "image-gen",
       "model_id": null,
-      "blog_attachment_status": "prepared-not-applied"
+      "blog_attachment_status": "applied-in-blog-source"
     },
     {
       "id": "blog-welcome",
@@ -245,7 +245,7 @@
       "raw_url": "https://raw.githubusercontent.com/Jayln3/blog-images/master/covers/2026/blog-welcome-v1.png",
       "generation_tool": "image-gen",
       "model_id": null,
-      "blog_attachment_status": "prepared-not-applied"
+      "blog_attachment_status": "applied-in-blog-source"
     },
     {
       "id": "linkedin-abm",
@@ -267,7 +267,7 @@
       "raw_url": "https://raw.githubusercontent.com/Jayln3/blog-images/master/covers/2026/linkedin-abm-v1.png",
       "generation_tool": "image-gen",
       "model_id": null,
-      "blog_attachment_status": "prepared-not-applied"
+      "blog_attachment_status": "applied-in-blog-source"
     },
     {
       "id": "streaming-network",
@@ -289,7 +289,7 @@
       "raw_url": "https://raw.githubusercontent.com/Jayln3/blog-images/master/covers/2026/streaming-network-v1.png",
       "generation_tool": "image-gen",
       "model_id": null,
-      "blog_attachment_status": "prepared-not-applied"
+      "blog_attachment_status": "applied-in-blog-source"
     }
   ]
 }
