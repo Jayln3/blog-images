@@ -47,6 +47,10 @@ https://cdn.jsdelivr.net/gh/Jayln3/blog-images@master/covers/2026/agent-memory-v
 
 生成原稿保存在 `covers/2026/`。未来接入博客时，建议制作经过预览检查的 WebP/AVIF 展示版本、保留原稿，并设置尺寸和懒加载；本轮保存的是原始 PNG 文件。
 
+## 实操截图
+
+[Dynadot 域名与邮箱文章截图](posts/dynadot-domain-email/README.md)包含三张作者提供的原始截图，独立清单位于该目录的 assets.json。它们不属于上面的 AI 概念插画清单，不通过生成提示词脚本维护。博客使用固定提交和 SHA256 校验，并注明截图时的配置状态。
+
 ## 历史文件
 
 根目录旧图片保留原样。检查发现 `home-design-2.jpg` 与 `man.jpg` 实际均为 2 字节换行文本，不能作为图片使用。`home-design-5.jpg` 和 `logo_ln3_bull_v8.png` 是有效图片。
