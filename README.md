@@ -51,6 +51,8 @@ https://cdn.jsdelivr.net/gh/Jayln3/blog-images@master/covers/2026/agent-memory-v
 
 [Dynadot 域名与邮箱文章截图](posts/dynadot-domain-email/README.md)包含三张作者提供的原始截图，独立清单位于该目录的 assets.json。它们不属于上面的 AI 概念插画清单，不通过生成提示词脚本维护。博客使用固定提交和 SHA256 校验，并注明截图时的配置状态。
 
+[LisaHost 使用记录与 VPS 配置截图](posts/lisahost-vps-experience/README.md)包含旧实例、优惠结算及 AKE 测速四张作者原图，分开注明服务器来源与测试条件。
+
 ## 历史文件
 
 根目录旧图片保留原样。检查发现 `home-design-2.jpg` 与 `man.jpg` 实际均为 2 字节换行文本，不能作为图片使用。`home-design-5.jpg` 和 `logo_ln3_bull_v8.png` 是有效图片。
